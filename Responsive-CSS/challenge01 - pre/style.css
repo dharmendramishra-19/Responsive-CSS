@@ -24,15 +24,10 @@ body {
 .container {
   background: #23424a;
   color: white;
-  
 
-  max-width: min(80%, 750px);
+  width: 80%;
   margin: 0 auto;
 
   padding: 2em;
-  
-}
-
-.intro-content{
-  width: 50%;
+  height: 300px;
 }
